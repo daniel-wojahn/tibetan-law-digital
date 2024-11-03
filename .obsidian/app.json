@@ -1,0 +1,12 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "PDFs",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "fileSortOrder": "alphabetical",
+  "readableLineLength": true,
+  "foldIndent": false,
+  "showInlineTitle": true,
+  "strictLineBreaks": false,
+  "foldHeading": false
+}

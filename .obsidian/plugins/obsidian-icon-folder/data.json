@@ -1,0 +1,59 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "RiPlantLine",
+      "FasBolt",
+      "FasBookOpenReader",
+      "FasListCheck",
+      "RiMailLine"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [
+      {
+        "icon": "IbStackVertical",
+        "rule": "Primary sources\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 0,
+        "useFilePath": true
+      }
+    ],
+    "extraMargin": {
+      "top": 2,
+      "right": 2,
+      "bottom": 2,
+      "left": 2
+    },
+    "emojiStyle": "native",
+    "iconInTabsEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":",
+    "iconsInLinksEnabled": true,
+    "debugMode": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconInTitlePosition": "above",
+    "lucideIconPackType": "native"
+  },
+  "Terms & Concepts": "FasLightbulb",
+  "People": "FasUserGroup",
+  "CHAPTERS": "FasBook",
+  "Events": "IbStackVertical",
+  "Theory": "FasFeatherPointed",
+  "Primary sources/Biographies": "IbStackVertical",
+  "Primary sources/Chos 'byung": "IbStackVertical",
+  "Primary sources/General": "IbStackVertical",
+  "Primary sources/Lo rgyus": "IbStackVertical",
+  "Phakpa letters": "RiMailLine",
+  "Events/Legal examples.md": "FasBookOpenReader",
+  "Primary sources": "IbAcademicBook",
+  "Terms & Concepts/Glossary.md": "FasBolt",
+  "For later": "RiPlantLine",
+  "Secondary research/PDFs": "FasFilePdf"
+}

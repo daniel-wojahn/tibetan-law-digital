@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "b64846384a77510d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d61740945eb855a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "General theoretic observations.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "71c906094acc6d29",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "People/Khubilai Khan.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "05c84fd33b729a26",
+    "type": "split",
+    "children": [
+      {
+        "id": "22fcf7ab124f2727",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d27edf1042db666d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4e96d559d39474c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0d24f2175c138221",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 346.5
+  },
+  "right": {
+    "id": "44abf1cf2e35e190",
+    "type": "split",
+    "children": [
+      {
+        "id": "91ca3d6cced29c50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d106d22ed88a2a0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "General theoretic observations.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b74f32356e11238e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "General theoretic observations.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "76c6e5f2e1888615",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1e44b0b8c64d006b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "General theoretic observations.md"
+              }
+            }
+          },
+          {
+            "id": "7f97db5896e59b51",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "511b304192484bbd",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "825358623422a361",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4d61740945eb855a",
+  "lastOpenFiles": [
+    "Primary sources/Lo rgyus/Deb ther dmar po.md",
+    "People/Khubilai Khan.md",
+    "Mongol law  (hor khrims).md",
+    "Hor genealogy in Tibetan sources.md",
+    "Primary sources/Lo rgyus/Rgyal rabs 'phrul gyi lde mig.md",
+    "General theoretic observations.md",
+    "CHAPTERS/Chapter 3.md",
+    "Events/Chu mig council.md",
+    "Primary sources/The Edicts.md",
+    "People/Phyag na rdo rje (1239-1267).md"
+  ]
+}

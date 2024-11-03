@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Notes on Chapter 4",
+      "path": "CHAPTERS/Notes on Chapter 4.md"
+    },
+    {
+      "type": "file",
+      "title": "Glossary",
+      "path": "Terms & Concepts/Glossary/Glossary.md"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "theme": "system",
+  "cssTheme": "Sanctum",
+  "interfaceFontFamily": "Montserrat",
+  "textFontFamily": "Open Sans",
+  "monospaceFontFamily": "Open Sans",
+  "baseFontSize": 18,
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "obsidian",
+    "MCL Wide Views"
+  ],
+  "translucency": false,
+  "accentColor": ""
+}
